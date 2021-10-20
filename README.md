@@ -1,6 +1,5 @@
 <div align="center">
-  <br />
-  <img src=".github/Logo%20DoWhile%20-%202021.png" width=350 />
+  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4f2f5baf-e2a7-4721-9078-550ccd89e7e3%2Fnlwheat.png?table=block&id=2314592c-9f62-4808-88e5-ac4626d8dffd&spaceId=d44e01d8-04a9-46cf-8482-95a35de71160&width=2000&userId=2ce1de42-dfd6-493c-8b38-1ed514d89684&cache=v2" />
   <br />
   <br />
   <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ad056502-a320-445d-a041-586df6d66d07/node.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211020%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211020T141200Z&X-Amz-Expires=86400&X-Amz-Signature=b82ee0dfe8960391622caed97ac543dd2cb5ff6984a5471ec27511b9c073ad1a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22node.png%22" width=150 />
