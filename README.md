@@ -6,9 +6,11 @@
 </div>
 
 ## 📝 Sobre
-Aplicação criada na primeira aula da *NLW Heat* onde criamos a parte do back-end do nosso projeto.
-E criamos as seguintes funções: 
+Primeiro dia da *NLW Heat*, a última NLW do ano, criamos a parte do back-end da nossa aplicação toda em Node.js + Typescript, tudo isso está servindo como um esquenta para o
 
+![DoWhile](.github/Logo%20DoWhile%20-%202021.png)
+
+Nesta aula vimos e construimos as seguintes funções:
 - Criação de autenticação do usuário pelo Github, utilizando o OAuth
 - Criamos uma rota de callback para validar o usuário
 - Criamos a parte da nossa autenticação, access_token do Github, dados do usuário
